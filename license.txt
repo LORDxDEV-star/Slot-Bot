@@ -1,0 +1,34 @@
+LUNAR DEVELOPMENT CUSTOM LICENSE v1.0
+=====================================
+
+Copyright (c) 2025 Lunar Developments
+
+Permission is hereby granted to any individual or organization ("Licensee") to use, modify, and deploy this software (the "Bot") under the following conditions:
+
+1. **CREDITS & ATTRIBUTION**
+   - All public instances of the bot must clearly credit **Lunar Developments**.
+   - A visible credit must be included in either:
+     - The bot’s `/help` command, footer, or bot bio.
+     - Or a direct message in any support or slot-grant notifications.
+   - The support server link (`https://discord.gg/lunardevs`) must remain visible in all DM interactions and documentation.
+
+2. **MODIFICATIONS**
+   - You may modify the source code to suit your needs, but must retain the original credits and links.
+   - Modified versions may not be redistributed publicly without explicit permission from **Lunar Developments**.
+
+3. **USAGE RESTRICTIONS**
+   - This software may not be used for commercial resale or as a paid premium feature without written approval.
+   - The software may not be used in violation of Discord's Terms of Service or Community Guidelines.
+
+4. **LIABILITY**
+   - This software is provided "as-is" without any warranties.
+   - Lunar Developments is not liable for any misuse, data loss, or damage caused by this software.
+
+5. **TERMINATION**
+   - Any breach of this license, including removal of credits or unauthorized distribution, will result in immediate revocation of license rights.
+
+6. **SUPPORT**
+   - Official support is available through the **Lunar Developments Discord Server**: https://discord.gg/lunardevs
+
+By using this software, you agree to the above terms.
+
