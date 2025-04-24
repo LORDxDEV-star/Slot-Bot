@@ -38,5 +38,4 @@
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/discord-slot-bot
-cd discord-slot-bot
+git clone https://github.com/LORDxDEV-star/Slot-Bot.git
