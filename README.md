@@ -1,7 +1,7 @@
 <h1 align="center">
   🎰 Discord Slot Bot
   <br>
-  <img src="[https://media.giphy.com/media/J3eM4iEc2R7nA/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmakeagif.com%2Fgif%2Fnuclear-logo-YOZ1e9&psig=AOvVaw3VN5VE7ArHs7_Saawt6oR3&ust=1745593411152000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMCC4qf48IwDFQAAAAAdAAAAABAJ)" width="80">
+  <img src="https://i.imgur.com/Rd6Us0r.png" width="80">
 </h1>
 
 <p align="center">
